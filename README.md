@@ -19,6 +19,7 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 | [0088-merge-sorted-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0953-reverse-only-letters](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +70,5 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
+| [0961-long-pressed-name](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0961-long-pressed-name) |
 <!---LeetCode Topics End-->
