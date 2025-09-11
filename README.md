@@ -10,6 +10,7 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 | [0088-merge-sorted-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1137-height-checker) |
 ## Two Pointers
 |  |
@@ -17,12 +18,14 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 | [0075-sort-colors](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0953-reverse-only-letters](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
