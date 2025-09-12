@@ -65,6 +65,7 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1086-divisor-game](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1086-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -74,4 +75,16 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 | ------- |
 | [0953-reverse-only-letters](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0961-long-pressed-name) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
