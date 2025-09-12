@@ -75,6 +75,7 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 | ------- |
 | [0953-reverse-only-letters](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/tgilly93/LeetCode_Solutions/tree/master/0961-long-pressed-name) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,8 @@ This is where I showcase my programming prowess by providing solutions to LeetCo
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1086-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tgilly93/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
